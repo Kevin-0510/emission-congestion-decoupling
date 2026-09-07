@@ -11,7 +11,7 @@ Original file is located at
 
 import pandas as pd
 
-df = pd.read_csv("/content/Travel_Times - Washington DC.csv")
+df = pd.read_csv("data/Travel_Times - Washington DC.csv")
 df.head()
 
 #Assumptions for Urban intersection dense area.
